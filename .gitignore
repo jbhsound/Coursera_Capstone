@@ -1,2 +1,4 @@
 # Ignored Files and Directories  
 /envs 
+.ipynb_checkpoints/ 
+ibm_project_notes.txt
